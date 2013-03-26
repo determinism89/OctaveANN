@@ -8,6 +8,7 @@ Originally written for use in the [Kaggle Digit Recognition Challenge](http://ww
 
 
 Author: John Alexander III
+
 Contact: johnaudleyalexanderiii at gmail dot com
 
 Directory
