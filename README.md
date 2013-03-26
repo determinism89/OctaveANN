@@ -1,7 +1,7 @@
 OctaveANN
 ================
 
-A basic neural network class for Octave suporting stochastic and batch gradient descent.
+A basic neural network class for Octave supporting stochastic or batch gradient descent.
 
 Originally written for use in the [Kaggle Digit Recognition Challenge](http://www.kaggle.com/c/digit-recognizer).
 
