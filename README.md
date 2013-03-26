@@ -39,7 +39,7 @@ Accessing the help string from the command prompt:
 
 ```matlab
 
-help @ann\[METHOD]
+>>help @ann\[METHOD]
 
 ```
 
@@ -51,10 +51,10 @@ Usage
 
 ```matlab
 
-% Creating an ann instance with two hidden layers. Here the input dimension is 784, and
-% classification dimension is 10. The hidden layers contain 200 and 20 nodes respectively.
+>>% Creating an ann instance with two hidden layers. Here the input dimension is 784, and
+>>% classification dimension is 10. The hidden layers contain 200 and 20 nodes respectively.
 
-A = ann([784,200,20,10])
+>>A = ann([784,200,20,10])
 
 ```
 
